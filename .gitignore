@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+mlruns/
+mlflow.db
+data/
+desktop.ini
+.ipynb_checkpoints/
+.vscode/
+src/serving/model/
